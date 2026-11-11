@@ -1,187 +1,381 @@
+
 <!--
-  GitHub Profile README
-  Place this file as README.md in the public repository named exactly:
-  vishnu007prakash/vishnu007prakash
+ VISHNU PRAKASH | NEON GLASS PORTFOLIO
+ Single-file GitHub Profile README
 -->
 
 <div align="center">
 
-# Hi, I'm Vishnu Prakash 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0C2340,65:164E63,100:312E81&text=VISHNU%20PRAKASH&fontSize=52&fontColor=E0F2FE&fontAlignY=38&desc=DATA%20%7C%20INTELLIGENCE%20%7C%20INNOVATION&descSize=16&descAlignY=59&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Business+Data+Analyst;Power+BI+%26+BI+Developer;Python+%26+Machine+Learning+Enthusiast;Founder+%40+Infinity+Nest+Data+Analytics" alt="Animated role introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=700&height=50&lines=Welcome+to+my+digital+universe.;Turning+data+into+intelligence.;Engineering+business+insights.;Building+technology+that+matters."/>
 
-**Turning business data into clear insights, useful dashboards, and better decisions.**
+<br/><br/>
 
-<a href="https://infinitynestdataanalytics.com"><img src="https://img.shields.io/badge/Portfolio-Infinity%20Nest-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/vishnu-prakash-k-565905354"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:vip007prakash@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/vishnu007prakash"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://infinitynestdataanalytics.com">
+<img src="https://img.shields.io/badge/INFINITY%20NEST-FOUNDER-164E63?style=for-the-badge&logo=googlechrome&logoColor=67E8F9"/>
+</a>
+<a href="https://linkedin.com/in/vishnuprakash-k-565905354">
+<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-312E81?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:vip007prakash@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-EMAIL-164E63?style=for-the-badge&logo=gmail"/>
+</a>
 
-![Profile views](https://komarev.com/ghpvc/?username=vishnu007prakash&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS)
+<br/><br/>
 
-</div>
-
----
-
-## About Me
-
-I'm a **Data Analyst** based in **Chennai, India**, with experience across business intelligence, MIS reporting, dashboard development, data analysis, and process optimization. I work with **Power BI, SQL, and Python** to turn raw data into meaningful business insights.
-
-I’m also the founder of **[Infinity Nest Data Analytics](https://infinitynestdataanalytics.com)**, where I focus on practical data products, analytics, and dashboard solutions for businesses.
-
-- **Focus:** Business Data Analysis · Power BI · SQL · Python · Machine Learning
-- **Experience:** Sunshine Group of Companies · Sutherland Global · ATOS India
-- **Interested in:** Data Analyst, BI Analyst, Power BI Developer, and analytics-focused opportunities
-- **Based in:** Chennai, Tamil Nadu, India
-
-## What I Bring
-
-| Business understanding | Analytics delivery | Decision support |
-|:--|:--|:--|
-| KPI tracking, operational and financial analysis, stakeholder requirements | Data cleaning, SQL analysis, Power BI dashboards, MIS reporting | Clear reporting, trend analysis, process insights, and performance monitoring |
-
-## Career Highlights
-
-<div align="center">
-
-| **14 Group Companies** | **5+ Power BI Dashboards** | **94 Countries** | **87.5% Model Accuracy** |
-|:---:|:---:|:---:|:---:|
-| Business performance monitoring | Delivered at Sutherland | Schlumberger dashboard coverage | Elega Wave project |
-
-</div>
-
-Additional outcomes from my work include reducing manual reporting effort by **30%**, accelerating reporting cycles by **40%**, and contributing to profitability and process improvements through business analysis.
-
-## Technical Skills
-
-### Data & Business Intelligence
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white)
-
-Power BI · DAX · Data Modeling · Dashboard Development · MIS Reporting · KPI Tracking · Data Visualization · Exploratory Data Analysis · Trend Analysis · Pivot Tables
-
-### Python, Data Science & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-Python · Pandas · NumPy · scikit-learn · TensorFlow · PySpark · Matplotlib · Seaborn · Plotly · Beautiful Soup · Requests · SQLAlchemy · Jupyter Notebook · Google Colab
-
-### Development & Tools
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-Angular · Spring Boot · REST APIs · MSSQL · Postman · API Testing · Git/GitHub
-
-## Experience
-
-### Business Data Analyst — Sunshine Group of Companies
-`March 2026 – August 2026`
-
-- Managed business analysis and performance monitoring for **14 group companies** across multiple industries.
-- Led a team of **2 analysts**, delivering MIS reports, KPI tracking, and business insights.
-- Analyzed financial, operational, and digital performance to support decision-making.
-- Developed an HR payroll dashboard by integrating attendance-system data.
-- Contributed to a **20% profitability improvement** at Breeze Residency through operational analysis and process optimization.
-- Supported a **15% increase in profit margins** at Pan Oleo Energy Ltd through production analysis and process-improvement recommendations.
-
-### Power BI Analyst (Contract) — Sutherland Global
-`March 2025 – June 2025`
-
-- Developed and launched **5+ interactive Power BI dashboards** for multiple clients.
-- Automated daily, weekly, and monthly report updates using scheduled Power BI refreshes, reducing manual effort by **30%**.
-- Integrated SQL databases with Power BI, helping accelerate reporting cycles by **40%**.
-- Optimized datasets with SQL queries and data transformation, improving report reliability by **25%**.
-- Worked with stakeholders to align dashboard outputs with business requirements.
-
-### Software Developer Intern — ATOS India Private Limited
-`August 2023 – December 2023`
-
-- Developed a Resume Scanner web application using **Angular, Spring Boot, and MSSQL**.
-- Built front-end components and integrated REST APIs with the back end.
-- Performed API testing using Postman, along with debugging and functional testing.
-
-## Featured Projects
-
-### 1. Schlumberger Global Performance Dashboard
-*International project — Sutherland Global*
-
-- Built comprehensive Power BI performance dashboards through data cleaning, analysis, DAX calculations, and relationship modeling.
-- Created **134 unique and combination DAX queries**.
-- Developed interactive visuals and maps covering performance insights across **94 countries**.
-
-### 2. Energizer One Stop Report
-*International project — Sutherland Global*
-
-- Developed a Power BI report covering performance, trends, and summary insights across **three categories**.
-- Collected, cleaned, and structured data for interactive operational monitoring.
-- Supported a reported **20% improvement in operational monitoring and efficiency**.
-
-### 3. Spotify Global Dashboard
-*International project — Sutherland Global*
-
-- Built an interactive dashboard to visualize global Adherence data across **five countries**.
-- Used SQL for data cleaning and transformation, with scheduled refresh processes for updated reporting.
-
-### 4. Elega Wave — Virtual Touch AI
-*Final-year project*
-
-- Developed a real-time gesture-recognition system using deep neural networks for a virtual-touch interface.
-- Designed for a response time of **less than 9 milliseconds** and an average accuracy of **87.5%**.
-- Focused on responsiveness across low-spec systems and augmented-reality environments.
-
-## Education
-
-**B.E. Computer Science and Engineering**  
-Jeppiaar Engineering College, Chennai · Anna University  
-`August 2020 – August 2024` · **CGPA: 7.95 / 10**
-
-## Certifications
-
-- **Data Science with GenAI** — Greens Technologies
-- **Data Analysis** — Coursera (Google Data Analytics)
-- **Web Development Internship Certificate** — Infinity Cosmos Technology
-- **Web Development Internship Certificate** — ATOS
-- **Power BI Developer / BI Analyst Internship Certificate** — Sutherland Global
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnu007prakash&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Vishnu's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu007prakash&layout=compact&hide_border=true&langs_count=7&theme=tokyonight" alt="Most used programming languages" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=vishnu007prakash&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-## Let's Connect
-
-I'm open to **full-time roles, contract opportunities, freelance analytics projects, and collaborations** involving business intelligence, data analysis, dashboards, and practical machine learning.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vishnu-prakash-k-565905354"><img src="https://img.shields.io/badge/LinkedIn-Vishnu%20Prakash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:vip007prakash@gmail.com"><img src="https://img.shields.io/badge/Email-vip007prakash%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://infinitynestdataanalytics.com"><img src="https://img.shields.io/badge/Company-Infinity%20Nest%20Data%20Analytics-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Infinity Nest Data Analytics" /></a>
-
-**Thanks for visiting my profile!** ⭐
+<img src="https://komarev.com/ghpvc/?username=vishnu007prakash&style=for-the-badge&color=0891B2&label=VISITORS"/>
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Data Analytics · Business Intelligence · Power BI · Python · SQL · Machine Learning</sub>
+
+## ◈ THE HUMAN BEHIND THE SYSTEM
+
+<img src="https://img.shields.io/badge/LOCATION-CHENNAI%2C%20INDIA-0E7490?style=flat-square"/>
+<img src="https://img.shields.io/badge/IDENTITY-DATA%20ANALYST-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/ROLE-FOUNDER-0E7490?style=flat-square"/>
+
+</div>
+
+I'm a **Business Data Analyst and technology enthusiast** focused on transforming raw information into meaningful business decisions.
+
+From enterprise dashboards to business automation, I enjoy building solutions where data meets technology.
+
+Currently pursuing **M.Sc. Data Science** and building **Infinity Nest Data Analytics**.
+
+<div align="center">
+
+<img width="85%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+
+</div>
+
+---
+
+## ◈ CORE CAPABILITIES
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/01-DATA%20INTELLIGENCE-083344?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.icons8.com/nolan/96/combo-chart.png" width="55"/>
+
+<br/>
+
+<strong>Business Intelligence</strong>
+
+<sub>Power BI · SQL · DAX · MIS</sub>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/02-TECHNOLOGY-1E1B4B?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.icons8.com/nolan/96/code.png" width="55"/>
+
+<br/>
+
+<strong>Development</strong>
+
+<sub>Python · Angular · APIs · MSSQL</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/03-INTELLIGENCE-1E1B4B?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.icons8.com/nolan/96/artificial-intelligence.png" width="55"/>
+
+<br/>
+
+<strong>Data Science</strong>
+
+<sub>EDA · Machine Learning · Analytics</sub>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/04-INNOVATION-083344?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.icons8.com/nolan/96/automation.png" width="55"/>
+
+<br/>
+
+<strong>Automation</strong>
+
+<sub>Business Workflows · Digital Solutions</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ CAREER EVOLUTION
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:8B5CF6,100:06B6D4"/>
+
+</div>
+
+<table>
+<tr>
+<td width="20%" align="center">
+
+<img src="https://img.icons8.com/nolan/96/source-code.png" width="45"/>
+
+<strong>ATOS</strong>
+
+</td>
+<td width="80%">
+
+<strong>Software Developer Intern</strong>
+
+Angular · Spring Boot · MSSQL · REST APIs
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.icons8.com/nolan/96/combo-chart.png" width="45"/>
+
+<strong>SUTHERLAND</strong>
+
+</td>
+<td>
+
+<strong>Power BI Analyst</strong>
+
+International dashboards · SQL · DAX · Reporting Automation
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.icons8.com/nolan/96/business.png" width="45"/>
+
+<strong>SUNSHINE</strong>
+
+</td>
+<td>
+
+<strong>Business Data Analyst</strong>
+
+Multi-company analytics · HR Payroll · MIS · KPI Monitoring
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.icons8.com/nolan/96/rocket.png" width="45"/>
+
+<strong>INFINITY NEST</strong>
+
+</td>
+<td>
+
+<strong>Founder</strong>
+
+Data Analytics · Business Automation · Digital Solutions
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ◈ TECHNOLOGY MATRIX
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,angular,spring&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/DAX-164E63?style=flat-square"/>
+<img src="https://img.shields.io/badge/POWER%20QUERY-164E63?style=flat-square"/>
+<img src="https://img.shields.io/badge/PANDAS-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/MSSQL-164E63?style=flat-square"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-312E81?style=flat-square"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ SELECTED PROJECTS
+
+<sub>A glimpse into my work and experimentation</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://img.icons8.com/nolan/96/worldwide-location.png" width="65"/>
+
+### GLOBAL INTELLIGENCE
+
+<strong>Schlumberger | Sutherland</strong>
+
+<img src="https://img.shields.io/badge/94-COUNTRIES-164E63?style=flat-square"/>
+<img src="https://img.shields.io/badge/134-DAX%20MEASURES-312E81?style=flat-square"/>
+
+Global performance visualization and interactive reporting.
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://img.icons8.com/nolan/96/musical-notes.png" width="65"/>
+
+### SPOTIFY ANALYTICS
+
+<strong>Sutherland</strong>
+
+<img src="https://img.shields.io/badge/5-COUNTRIES-164E63?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-DATA-312E81?style=flat-square"/>
+
+Adherence monitoring and data transformation.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://img.icons8.com/nolan/96/business-report.png" width="65"/>
+
+### HR INTELLIGENCE
+
+<strong>Sunshine Group</strong>
+
+<img src="https://img.shields.io/badge/MULTI-COMPANY-164E63?style=flat-square"/>
+<img src="https://img.shields.io/badge/POWER%20BI-DASHBOARD-312E81?style=flat-square"/>
+
+Attendance integration and payroll reporting.
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://img.icons8.com/nolan/96/hand.png" width="65"/>
+
+### ELEGA WAVE
+
+<strong>AI / ML Project</strong>
+
+<img src="https://img.shields.io/badge/87.5%25-ACCURACY-164E63?style=flat-square"/>
+<img src="https://img.shields.io/badge/DEEP-LEARNING-312E81?style=flat-square"/>
+
+Gesture recognition using deep learning.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ◈ IMPACT IN NUMBERS
+
+<img src="https://img.shields.io/badge/14%2B-COMPANIES%20ANALYZED-083344?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/5%2B-POWER%20BI%20DASHBOARDS-1E1B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/94-COUNTRIES%20VISUALIZED-083344?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ GITHUB COMMAND CENTER
+
+<a href="https://github.com/vishnu007prakash">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishnu007prakash&show_icons=true&theme=transparent&hide_border=true&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1"/>
+</a>
+
+<a href="https://github.com/vishnu007prakash">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu007prakash&layout=compact&theme=transparent&hide_border=true&title_color=67E8F9&text_color=CBD5E1&langs_count=6"/>
+</a>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=vishnu007prakash&theme=transparent&hide_border=true&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ BEYOND THE CODE
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:082F49,50:312E81,100:164E63&text=INFINITY%20NEST&fontSize=34&fontColor=E0F2FE&desc=DIGITAL%20SOLUTIONS.%20INTELLIGENT%20AUTOMATION.&descSize=12&descAlignY=75"/>
+
+<strong>Founder — Infinity Nest Data Analytics</strong>
+
+Building practical digital solutions, automation systems and analytics experiences to help businesses grow.
+
+<a href="https://infinitynestdataanalytics.com">
+<img src="https://img.shields.io/badge/EXPLORE%20INFINITY%20NEST-67E8F9?style=for-the-badge&logo=googlechrome&logoColor=020617"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ ESTABLISH CONNECTION
+
+<sub>Open to Data Analytics · Business Intelligence · AI & Automation opportunities</sub>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/vishnuprakash-k-565905354">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vip007prakash@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/vishnu007prakash">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=500&height=35&lines=Thanks+for+exploring+my+digital+universe.;Let's+build+something+extraordinary."/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:164E63,50:312E81,100:020617"/>
+
 </div>
